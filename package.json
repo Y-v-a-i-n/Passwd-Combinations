@@ -1,0 +1,14 @@
+{
+  "name": "passwd-combinations",
+  "version": "1.0.0",
+  "description": "A module to calculate the number of possible combinations to crack a password per bruteforce",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvain",
+  "license": "ISC"
+}
